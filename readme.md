@@ -25,13 +25,13 @@ Codimate Solutions is a Software company dedicated to delivering cutting-edge we
 
 ## Get in Touch
 
-Have a project in mind? Let's discuss how we can bring it to life! Contact us at [codimatesolutions@gmail.com](mailto:codimatesolutions@gmail.com) 
+Have a project in mind? Let's discuss how we can bring it to life! Contact us at [contact@codimatesolutions.com](mailto:contact@codimatesolutions.com) 
 
 ## Social Media
 
 Stay connected with us on social media for the latest updates and tech insights:
 
-- [Twitter](https://twitter.com/codimatesolutions)
+- [Twitter](https://twitter.com/codimatesol)
 - [LinkedIn](https://www.linkedin.com/company/codimatesolutions)
 - [Facebook](https://www.facebook.com/codimatesolutions)
 
