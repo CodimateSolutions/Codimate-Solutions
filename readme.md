@@ -1,6 +1,6 @@
 # Codimate Solutions
 
-Welcome to Codimate Solutions, your go-to partner for innovative web and app development solutions!
+Welcome to Codimate Solutions ["Codi" (short for coding) and "mate" (meaning partner)], your coding partner for innovative web and app development solutions!
 
 ## About Us
 
